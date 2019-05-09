@@ -18,7 +18,7 @@ Create an app.conf file with the service configuration in the ~/project_director
 
 <li><strong>root:</strong> This directive sets the root folder path, forming the complete path to any requested file on the local file system.</li>
 
-    <strong>root /var/www/public;</strong></br>
+<strong>root /var/www/public;</strong></br>
 
 
 <li>In PHP location block, the fastcgi_pass instruct that the app service listening on a TCP socket on port 9000.</br>
